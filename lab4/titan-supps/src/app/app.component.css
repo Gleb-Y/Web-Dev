@@ -1,0 +1,30 @@
+.brand-logo{
+    width: 10vw;
+    margin-left: 2vh;
+}
+header{
+    background-color: #8A2BE2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.input-place{
+    color: #121212;
+    border: none;
+    height: 5vh;
+    border: 1px solid white;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+.input-place:focus{
+    border: 1px solid #121212;
+}
+
+
+/* products */
+main{
+    display: flex;
+    justify-content: center;
+}
