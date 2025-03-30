@@ -1,0 +1,200 @@
+[
+    {
+      "id": 0,
+      "name": "YummyLab 100% Gourmet Whey Protein",
+      "price": 14690.0,
+      "description": "Cпециализированный пищевой продукт для питания спортсменов: Ямми Лэб “100% Гоурмит ВЭЙ” (вкус: молочный шоколад)/Yummy lab “100% gourmet whey” (milk chocolate), порошок.",
+      "count": 12,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 1,
+      "name": "Maxler 100% Golden Whey",
+      "price": 25000.0,
+      "description": "Maxler Golden Whey – это чистый сывороточный белок премиум класса, который идеально подходит для интенсивных тренировок!",
+      "count": 8,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 2,
+      "name": "Mutant 100% Gourmet Whey Protein Mix",
+      "price": 34333.0,
+      "description": "Mutant Whey - пятиуровневый протеин из идеальных компонентов. Протеин представляет собой смесь концентрата, изолята и гидролизата сывороточного белка, обогащённую глютамином и ВСАА.",
+      "count": 5,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 3,
+      "name": "Not Bad Whey Protein",
+      "price": 5000.0,
+      "description": "Протеиновый коктейль WHEY PROTEIN – сывороточный протеин для тех, кто хочет получить максимальный эффект в достижении своей цели по доступной цене!",
+      "count": 9,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 4,
+      "name": "Herbalife Nutrition",
+      "price": 18759.0,
+      "description": "Восстановление силы - это белковый восстанавливающий коктейль, специально разработанный для ускоренного восстановления и наращивания мышечной массы после силовой нагрузки.",
+      "count": 10,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 5,
+      "name": "Maxler 100% Golden Creatine",
+      "price": 14900.0,
+      "description": "Каждый атлет знает о положительных эффектах креатина на рост мышечной массы и тренировочный процесс в целом: увеличение выносливости, рост объема мышц, положительное влияние на синтез белка, уменьшение боли в мышцах и восстановление после тренировок.",
+      "count": 11,
+      "is_active": true,
+      "category": "Creatin"
+    },
+    {
+      "id": 6,
+      "name": "Kevin Levrone Kevin Levrone Gold Creatine",
+      "price": 7999.0,
+      "description": "Kevin Levrone Gold Creatine - диетическая добавка, созданная на основе высококачественного креатина моногидрата - соединения, поддерживает построение сухой мышечной массы во время интенсивных физических нагрузок.",
+      "count": 3,
+      "is_active": true,
+      "category": "Creatin"
+    },
+    {
+      "id": 7,
+      "name": "Qazprotein Creatine Monohydrate",
+      "price": 7940.0,
+      "description": "Qazprotein Creatine Monohydrate - это чистейший креатин моногидрат фармацевтического качества.",
+      "count": 7,
+      "is_active": true,
+      "category": "Creatin"
+    },
+    {
+      "id": 8,
+      "name": "Optimum Nutrition Creatine Powder",
+      "price": 15000.0,
+      "description": "каждая порция содержит полные 3.4 грамма моногидрата креатина марки creapure чистотой 99.9%",
+      "count": 6,
+      "is_active": true,
+      "category": "Creatin"
+    },
+    {
+      "id": 9,
+      "name": "YummyLab Creatine Monohydrate",
+      "price": 7499.0,
+      "description": "Creatine Monohydrate – 100%-й моногидрат креатина в порошковой форме.",
+      "count": 5,
+      "is_active": true,
+      "category": "Creatin"
+    },
+    {
+      "id": 10,
+      "name": "Maxler 100% Golden BCAA",
+      "price": 9000.0,
+      "description": "100% Golden BCAA – это мощная формула, содержащая аминокислоты с разветвленными цепями (BCAA) в классическом соотношении 2:1:1 (L-Лейцин, L-Изолейцин, L-Валин). BCAA – основной материал для построения мышц.",
+      "count": 2,
+      "is_active": true,
+      "category": "BCAA"
+    },
+    {
+      "id": 11,
+      "name": "BCAA LIMO 4:1:1",
+      "price": 4950.0,
+      "description": "BCAA 4:1:1 от LIMO - это высококачественный продукт, который поможет вам максимально эффективно накачать мышцы и повысить выносливость во время тренировок.",
+      "count": 23,
+      "is_active": true,
+      "category": "BCAA"
+    },
+    {
+      "id": 12,
+      "name": "Rule 1 BCAAs",
+      "price": 11350.0,
+      "description": "R1 BCAAS – это порошковые аминокислоты BCAA от компании Rule 1, с классическим соотношением незаменимых аминокислот 2:1:1, значительно ускоряющие восстановление мышечных тканей, вследствие чего достигается их наиболее быстрый рост.",
+      "count": 7,
+      "is_active": true,
+      "category": "BCAA"
+    },
+    {
+      "id": 13,
+      "name": "Qazprotein Amino BCAA+",
+      "price": 6770.0,
+      "description": "Пищевая добавка \"AMINO BCAA+ – это мощный аминокислотный комплекс, усиленный электролитами.",
+      "count": 2,
+      "is_active": true,
+      "category": "BCAA"
+    },
+    {
+      "id": 14,
+      "name": "Xtend BCAA",
+      "price": 23000.0,
+      "description": "Быстрое восстановление — ключ к лучшим результатам. Уже более 10 лет компания Xtend производит лучшие средства для восстановления мышц в мире.",
+      "count": 3,
+      "is_active": true,
+      "category": "BCAA"
+    },
+    {
+      "id": 15,
+      "name": "Nutricost Органический веганский протеин",
+      "price": 57000.0,
+      "description": "Органический веганский протеин, шоколадный PB, 907 г (2 фунта) шоколад 907 г",
+      "count": 15,
+      "is_active": true,
+      "category": "Veg protein"
+    },
+    {
+      "id": 16,
+      "name": "Raw Nutrition веганский протеин",
+      "price": 51850.0,
+      "description": "веганский протеин печенье со сливками 775 г",
+      "count": 5,
+      "is_active": true,
+      "category": "Veg protein"
+    },
+    {
+      "id": 17,
+      "name": "BPN веганский протеин",
+      "price": 59200.0,
+      "description": "протеиновый порошок на растительной основе ваниль 810 г",
+      "count": 5,
+      "is_active": true,
+      "category": "Veg protein"
+    },
+    {
+      "id": 18,
+      "name": "Doctor Murray Super Foods 3 Seed Protein Powder",
+      "price": 20900.0,
+      "description": "веганская белковая смесь (тыквенный белок, льняной белок, подсолнечный белок)",
+      "count": 7,
+      "is_active": true,
+      "category": "Veg protein"
+    },
+    {
+      "id": 19,
+      "name": "USN BlueLab 100% Plant Protein",
+      "price": 23050.0,
+      "description": "Веганская протеиновая смесь (изолят горохового белка, концентрат рисового белка, белок конопли),",
+      "count": 2,
+      "is_active": true,
+      "category": "Veg protein"
+    },
+    {
+      "id": 20,
+      "name": "Первый русский протеин PROTEIN",
+      "price": 13000.0,
+      "description": "это сывороточный протеин который содержит только натуральные компоненты.",
+      "count": 4,
+      "is_active": true,
+      "category": "Protein"
+    },
+    {
+      "id": 21,
+      "name": "Dr.Hoffman Top Whey",
+      "price": 16899.0,
+      "description": "Dr.Hoffman Top Whey 2020g (Шоколад) - высококачественный протеиновый порошок для наращивания сухой мышечной массы, ускоренного восстановления после тренировок и поддержки иммунитета.",
+      "count": 1,
+      "is_active": true,
+      "category": "Protein"
+    }
+  ]
